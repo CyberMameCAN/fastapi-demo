@@ -3,6 +3,10 @@
 ## Refer
 
 - [Poetry + fastAPI + VScode](https://zenn.dev/fuyu/scraps/5a17cd49801e15)
+- [Poetry documentation (ver. 1.1.6 日本語訳)](https://cocoatomo.github.io/poetry-ja/)
+- [FastAPI](https://fastapi.tiangolo.com/ja/)
+- [iFlake8: Your Tool For Style Guide Enforcement](https://flake8.pycqa.org/en/latest/)
+- [ google / yapf ](https://github.com/google/yapf)
 
 ## 説明
 
