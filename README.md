@@ -14,6 +14,7 @@ PoetryとFastAPIで初期の環境を作ってみる。
 
 ## 動かし方
     cd fastapi_demo
+    poetry install
     poetry run uvicorn fastapi_demo.main:app --reload
     
 ### グレゴリー級数でのπの計算を表示
